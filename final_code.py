@@ -28,7 +28,7 @@ Usage:
    - Generate an app password for Gmail: https://myaccount.google.com/security
 
 3. Run the script:
-   python script.py
+   python final_code.py
 """
 
 import sys
